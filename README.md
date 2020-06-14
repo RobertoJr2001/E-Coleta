@@ -2,7 +2,7 @@
 
 
 
-O E-coleta é uma marketplace onde conecta empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de forma ecológica.
+O Ecoleta é uma marketplace onde conecta empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de forma ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 
@@ -30,7 +30,7 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 
 O projeto foi desenvolvido durante a NLW (Next Level Week) oferecida pela equipe da Rocketseat.
 
-## **:star2: AGRADECIMENTOS**
+## **:star2:  AGRADECIMENTOS**
 
 <div align=center>
 
