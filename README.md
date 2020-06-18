@@ -2,9 +2,9 @@
 
 
 
-O Ecoleta é uma marketplace onde conecta empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de forma ecológica.
+O Ecoleta é um marketplace onde conecta empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de forma ecológica.
 
-As empresas ou entidades poderão se cadastrar na plataforma web enviando:
+As empresas/entidades poderão se cadastrar pela plataforma web enviando:
 
 * Nome da entidade, email, whatsapp
 * Imagem do ponto de coleta 
