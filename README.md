@@ -2,33 +2,34 @@
 
 
 
-O Ecoleta é um marketplace onde conecta empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de forma ecológica.
+Ecoleta is a marketplace where it connects companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
 
-As empresas/entidades poderão se cadastrar pela plataforma web enviando:
+Companies / entities can register through the web platform by sending:
 
-* Nome da entidade, email, whatsapp
-* Imagem do ponto de coleta 
-* Endereço para que ele possa aparecer no mapa
+* Entity name, email, whatsapp
+* Image of the collection point
+* Address so that it can appear on the map
 
 
 
-Além de selecionar um ou mais ítens de coleta:
+In addition to selecting one or more collection items:
 
-- Lâmpadas
-- Pilhas e baterias
-- Papéis e papelão
-- Resíduos eletrônicos
-- Resíduos orgânicos
-- Óleo de cozinha
+- Lamps
+- Batteries
+- Papers and cardboard
+- Electronic waste
+- Organic waste
+- Kitchen oil
 
-Os usuários terão acesso ao aplicativo móvel, onde poderão:
+Users will have access to the mobile application, where they can:
 
-- Navegar pelo mapa para ver as instituições cadastradas
-- Entrar em contato com a entidade através do E-mail ou do WhatsApp
+- Browse the map to see the registered institutions
+- Contact the entity via E-mail or WhatsApp
 
 ![home-mobile](https://user-images.githubusercontent.com/59518539/84429529-b1b9ad00-abfe-11ea-9558-a09d421cc10c.png)
 
-O projeto foi desenvolvido durante a NLW (Next Level Week) oferecida pela equipe da Rocketseat.
+
+The project was developed during the NLW (Next Level Week) offered by the Rocketseat team
 
 ## **:star2:  AGRADECIMENTOS**
 
